@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #1e1e2e;
+  color: white;
+  text-align: center;
+}
+
+canvas {
+  background: #2e2e44;
+  border-radius: 12px;
+  max-width: 100%;
+}
